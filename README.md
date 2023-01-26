@@ -1,4 +1,4 @@
-<h1>Bonjour, je suis Hugo! <br/><a>Programmation</a>, <a>Sécurité informatique</a>, <a>Intelligence artificielle</a>, <a>Base de données</a></h1>
+<h1>Bonjour, je suis Hugo! <br/><a>Programmation</a>, <a>Sécurité informatique</a>, <a>Intelligence artificielle</a></h1>
 
 <h2>👨‍💻 Projets scolaire de programmation:</h2>
 
