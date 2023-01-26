@@ -15,7 +15,7 @@
 - <b>HTML</b>
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Prenez contact avec moi:</h2>
 
 [<img align="left" alt="HugoAlain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="HugoAlain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
