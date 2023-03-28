@@ -7,6 +7,8 @@
   - [Programmation de plusieurs mméthodes utilisées dans le code principal du jeu Gladiateur](https://github.com/friax/Gladiateur)
   - [Interface du jeu Gladiateur](https://github.com/friax/Interface-Gladiateur)
 - <b>C++</b>
+
+- <b>VBA</b>
   
 - <b>SQL</b>
   
