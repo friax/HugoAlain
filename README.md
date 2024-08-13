@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [Petit programme de pompe à essence (premier programme du BAC)](https://github.com/friax/PompeEssence)
-  - [Programmation de plusieurs mméthodes utilisées dans le code principal du jeu Gladiateur](https://github.com/friax/Gladiateur)
+  - [Programmation de plusieurs méthodes utilisées dans le code principal du jeu Gladiateur](https://github.com/friax/Gladiateur)
   - [Interface du jeu Gladiateur](https://github.com/friax/Interface-Gladiateur)
 - <b>C++</b>
 
