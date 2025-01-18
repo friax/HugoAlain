@@ -3,12 +3,9 @@
 <h2>👨‍💻 Projets scolaires et professionnels de programmation:</h2>
 
 - <b>Python</b>
-  - [Petit programme de pompe à essence (premier programme du BAC)](https://github.com/friax/PompeEssence)
-  - [Programmation de plusieurs méthodes utilisées dans le code principal du jeu Gladiateur](https://github.com/friax/Gladiateur)
-  - [Interface du jeu Gladiateur](https://github.com/friax/Interface-Gladiateur)
-  - Application complète contenant une page de connexion, un clavardage avec une intelligence artificielle personnalisée et propre à l'entreprise (ChatGPT), et plusieurs autres fonctionnalités.
+  - Application complète contenant une page de connexion, un clavardage avec une intelligence artificielle personnalisée et propre à l'entreprise, et plusieurs autres fonctionnalités.
 - <b>C++</b>
-  - Plusieurs projets faits.
+  - Plusieurs projets faits dans le cadre des cours.
   - Programmation d'algorithmes.
 - <b>VBA</b>
   - Plusieurs outils VBA, notamment d'automatisation, faits pour des entreprises.
@@ -16,7 +13,7 @@
   - Configuration et programmation d'une base de données et intégration de celle-ci dans une application web HTML et PHP.
 - <b>Java</b>
   - Application complète de modélisation 3D, comme SketchUp, programmée lors de la deuxième année du BAC.
-- <b>HTML</b>
+- <b>HTML, CSS, Java Script</b>
   - Programmation de plusieurs applications web.
 
 <h2> 🤳 Prenez contact avec moi:</h2>
